@@ -1,0 +1,54 @@
+payment_key,trans_type,bank_name
+P001,mobile,GrabPay
+P002,card,HSBC Hong Kong
+P003,mobile,M-Pesa
+P004,card,Woori Bank
+P005,mobile,Venmo
+P006,card,ANZ (Australia and New Zealand)
+P007,card,Bank of China
+P008,card,Nedbank
+P009,card,Bank of America
+P010,card,HSBC UK
+P011,card,Banco Santander Brasil
+P012,card,Mizuho Bank
+P013,card,Industrial and Commercial Bank of China
+P014,mobile,WeChat Pay
+P015,card,BNP Paribas
+P016,mobile,Mercado Pago
+P017,card,Standard Bank
+P018,card,Barclays
+P019,card,Banco do Brasil
+P020,card,Deutsche Bank
+P021,card,Raiffeisen Bank International
+P022,mobile,Bancontact
+P023,card,Scotiabank
+P024,card,DBS Bank
+P025,mobile,Paytm
+P026,card,JPMorgan Chase
+P027,card,State Bank of India
+P028,card,Credit Suisse
+P029,mobile,Klarna
+P030,card,National Bank of Pakistan
+P031,card,Itaú Unibanco
+P032,mobile,PicPay
+P033,card,Santander
+P034,card,Zenith Bank
+P035,mobile,Apple Pay
+P036,card,ING Bank
+P037,card,ICICI Bank
+P038,mobile,Alipay
+P039,card,Bank Negara Indonesia
+P040,cash,
+P041,mobile,iDEAL
+P042,card,Royal Bank of Canada
+P043,card,Banco Bradesco
+P044,card,KASIKORNBANK
+P045,card,Nordea
+P046,card,UniCredit
+P047,card,Banco de Bogotá
+P048,card,Banco de Chile
+P049,card,Wells Fargo
+P050,card,TD Bank
+P051,card,Bank of Tokyo-Mitsubishi UFJ
+P052,card,Maybank
+P053,mobile,Beem It
